@@ -19,12 +19,13 @@ body {
 ul li {
     float: left;
     width: 200px;
-    height: 55px;
+    height: 60px;
     background-color: #006666;
     opacity: .7;
     line-height: 60px;
     text-align: center;
     font-size: 20px;
+    right: 60px;
 
 }
 ul li a {
@@ -76,13 +77,51 @@ input[type=text] {
 
 
 .box1 {
-    background-image: url(boxpic.gif);
+    background-image: url(pic2.gif);
+    background-size: stretch;
     padding: 200px;
     position: absolute;
     width: 1100px;
     top: 105%;
     left: 0%;
+    }
     
-   
-    
+
+    .circular-sb {
+  width: 200px;
+  border: 5px solid black;
+  padding: 50px;
+  margin: 30px auto;
+  border-radius: 50%;
+  text-align: bottom;
+  font-size: 24px;
+  font-weight: 900;
+  font-family: arial;
+  position: absolute;
+  top: 25%;
+  left: 40%;
+  background-color: #D5E8DD;
+  color: black;
 }
+
+.circle1 {
+  border: 5px solid black;
+  position: absolute;
+  width: 20px;
+  padding: 20px;
+  border-radius: 50%;
+  left: -50px;
+  bottom: 5px;
+   background-color: #D5E8DD;
+}
+.circle2 {
+  border: 5px solid black;
+  position: absolute;
+  width: 5px;
+  padding: 10px 15px;
+  border-radius: 50%;
+  left: -90px;
+  bottom: -90px;
+  background-color: #D5E8DD;
+}
+
