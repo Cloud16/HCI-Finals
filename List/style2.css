@@ -1,2 +1,22 @@
+body {
+     background:  url('pic3.gif') no-repeat;
+    
+   }
 
+.box1{
+	: 500px;
+	background-color: yellow;
+    padding: 30px;
+    position: center;
+    width: 5px;
+    top: 30%;
+    left: 10px;
+ border: 2px solid pink;}
+
+
+ ul {
+    margin: -5px;
+    padding: -10px
+   
+ }
 
