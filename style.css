@@ -77,14 +77,16 @@ input[type=text] {
 
 
 .box1 {
-    background-image: url(pic2.gif);
+    background-image: url(cute.gif);
     background-size: stretch;
-    padding: 200px;
+    background-repeat: no-repeat;
+    padding: 150px;
     position: absolute;
-    width: 1100px;
-    top: 105%;
+    width: 100px;
+    top: 120%;
     left: 0%;
     }
+
     
 
     .circular-sb {
@@ -121,7 +123,25 @@ input[type=text] {
   padding: 10px 15px;
   border-radius: 50%;
   left: -90px;
-  bottom: -90px;
+  bottom: -40px;
   background-color: #D5E8DD;
 }
 
+ .box2 {
+    background-image: url();
+    background-color: pink;
+    height:10px;
+    background-repeat: no-repeat;
+    padding: 100px;
+    position: absolute;
+    width: 100px;
+    top: 120%;
+    right: 30%;
+    color: black;
+    text-align: 50px;
+    font-family:cursive;
+    font-size: 15px;
+     border: 2px solid black;
+     border-style:dashed;
+
+    }
