@@ -1,6 +1,10 @@
 body {
      background:  url('pic3.gif') no-repeat;
-    
+     height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
    }
 
 .box1{
@@ -19,4 +23,7 @@ body {
     padding: -10px
    
  }
+ canvas {
+  border: 1px soild black;
+  
 
