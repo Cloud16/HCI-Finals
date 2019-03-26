@@ -1,29 +1,10 @@
 body {
-     background:  url('pic3.gif') no-repeat;
+     background-color:#737373;
      height: 100%;
   width: 100%;
   margin: 0;
   padding: 0;
   cursor: pointer;
-   }
-
-.box1{
-	: 500px;
-	background-color: yellow;
-    padding: 30px;
-    position: center;
-    width: 5px;
-    top: 30%;
-    left: 10px;
- border: 2px solid pink;}
-
-
- ul {
-    margin: -5px;
-    padding: -10px
-   
+  background-size: cover;
  }
- canvas {
-  border: 1px soild black;
-  
-
+ 
