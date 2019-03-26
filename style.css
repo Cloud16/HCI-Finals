@@ -20,12 +20,12 @@ ul li {
     float: left;
     width: 200px;
     height: 60px;
-    background-color: #006666;
+    background-color: black;
     opacity: .7;
     line-height: 60px;
     text-align: center;
     font-size: 20px;
-    right: 60px;
+    right: 100px;
 
 }
 ul li a {
@@ -38,19 +38,10 @@ ul li a:hover{
     background-color: #BA55D3;
 
 }
-.search-form{
-          float:right;
-          margin-right:70px;
-          
+
           
 
-    }
-input[type=text] {
-    padding: 10px;
-    border: none;
-    font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
-  }
+
   .button{
       float: right;
       color:white;
@@ -143,8 +134,7 @@ input[type=text] {
     font-size: 15px;
      border: 2px solid black;
      border-style:dashed;
+     text-indent: 50px;
 
     }
-    .p{
-        text-indent: 50px
-    }
+   

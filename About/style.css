@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    font-family: Arial;
+    color: #FFC0CB;
+    background-size: cover;
+
+
+.box1 {
+    background-image: url(hello.gif);
+    background-size: stretch;
+    background-repeat: no-repeat;
+    padding: 150px;
+    position: absolute;
+    width: 100px;
+    top: 120%;
+    left: 0%;
+    }
