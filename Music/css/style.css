@@ -2,7 +2,7 @@
 body {
   font-family: 'Josefin Sans', sans-serif !important;
   margin: 5rem 0 5rem 0;
-  background: black;
+  background-color:gray;
   font-family: tahoma;
 }
 body .music_player {
